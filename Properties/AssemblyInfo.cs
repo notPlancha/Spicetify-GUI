@@ -1,16 +1,18 @@
-﻿using System.Reflection;
+﻿
+
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Spicetify GUI Wrapper")]
+[assembly: AssemblyTitle("SpicetifyGUI")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Spicetify GUI Wrapper")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyProduct("SpicetifyGUI")]
+[assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +22,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("5a316d33-3d08-4aa5-8dde-0748f22e26f1")]
+[assembly: Guid("C9DE10A1-74A7-4F77-9E3D-8DD969929452")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -1,0 +1,11 @@
+C:\Users\Plancha\Desktop\spicetify gui\Forked\obj\Debug\SpicetifyGUI.csproj.AssemblyReference.cache
+C:\Users\Plancha\Desktop\spicetify gui\Forked\obj\Debug\SpicetifyGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Plancha\Desktop\spicetify gui\Forked\obj\Debug\SpcicetifyGUI.Properties.Resources.resources
+C:\Users\Plancha\Desktop\spicetify gui\Forked\obj\Debug\SpicetifyGUI.csproj.GenerateResource.cache
+C:\Users\Plancha\Desktop\spicetify gui\Forked\obj\Debug\SpicetifyGUI.csproj.CoreCompileInputs.cache
+C:\Users\Plancha\Desktop\spicetify gui\Forked\bin\Debug\SpcicetifyGUI.exe.config
+C:\Users\Plancha\Desktop\spicetify gui\Forked\bin\Debug\SpcicetifyGUI.exe
+C:\Users\Plancha\Desktop\spicetify gui\Forked\bin\Debug\SpcicetifyGUI.pdb
+C:\Users\Plancha\Desktop\spicetify gui\Forked\obj\Debug\SpcicetifyGUI.exe
+C:\Users\Plancha\Desktop\spicetify gui\Forked\obj\Debug\SpcicetifyGUI.pdb
+C:\Users\Plancha\Desktop\spicetify gui\Forked\obj\Debug\SpcicetifyGUI.Gui.resources
